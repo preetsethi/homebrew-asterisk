@@ -9,7 +9,7 @@ another, aren't the best fit for going into Homebrew itself.
 ## Installation
 
     xcode-select --install
-    brew tap leedm777/homebrew-asterisk
+    brew tap preetsethi/homebrew-asterisk (originally: brew tap leedm777/homebrew-asterisk)
     brew install asterisk
 
 ## Installation options
